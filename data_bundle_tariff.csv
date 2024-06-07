@@ -1,0 +1,4 @@
+Country ,Tariff,Currency ,Unit
+A,0.8,USD,megabytes
+B,0.9,USD,megabytes
+C,5,USD,megabytes
