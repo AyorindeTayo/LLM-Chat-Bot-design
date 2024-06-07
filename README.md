@@ -17,16 +17,39 @@ myenveconet -p python3 venv
 ```
 pip install openai
 ```
+```
+pip install flask
+```
 
 - Running the Server
   Type on your terminal, and run the server using this one simple command:
 ```
 (venv)$ flask run
+
 ```
+to run the app
+```
+python gptchatbot.py
+```
+```
+ python flaskapp.py
+```
+```
+ python gptchatbot.py
+```
+```
+python pdf.py
+```
+
+
+
+
 The locally deployed web app can now be accessed using
 ```
 http://localhost:5000
 ```
+
+
 
 
 
