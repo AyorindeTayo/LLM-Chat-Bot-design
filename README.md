@@ -1,33 +1,29 @@
 # Econet_test
 Test
+# Creating a Conda environment
+```
+Conda create -n myenveconet python
+```
+```
+Conda activate myenveconet
+```
 
-# Installing flask 
-- cd /path/to/project-directory      # Choose your project directory
+# Installing Flask all dependencies
+
 ```
-pipenv install
+pip install flask 
 ```
-Then, activate this app's virtualenv: virtualenv -p python3 venv  # For Python 3
-```
-myenveconet -p python3 venv
-```
-- Install your requirements
-```
-(venv)$ pip install -r requirements.txt
-```
+
 ```
 pip install openai
 ```
-```
-pip install flask
-```
+
 
 - Running the Server
   Type on your terminal, and run the server using this one simple command:
-```
-(venv)$ flask run
 
-```
-to run the app
+- Cd to Folder
+
 ```
 python gptchatbot.py
 ```
