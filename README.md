@@ -8,7 +8,7 @@ Conda create -n myenveconet python
 Conda activate myenveconet
 ```
 
-# Installing Flask all dependencies
+# Installing  all dependencies
 
 ```
 pip install flask 
@@ -23,7 +23,10 @@ pip install openai
   Type on your terminal, and run the server using this one simple command:
 
 - Cd to Folder
+- Note, before running the app,  Replace 'YOUR_API_KEY' with your actual OpenAI API key to run the code. This setup will enable the model to maintain conversation continuity
 
+- Running the Server
+  Type on your terminal, and run the server using this one simple command:
 ```
 python gptchatbot.py
 ```
