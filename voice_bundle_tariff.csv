@@ -1,0 +1,4 @@
+Country ,Tariff,Currency ,Unit
+A,0.5,USD,minute
+B,0.2,USD,minute
+C,0.3,USD,minute
