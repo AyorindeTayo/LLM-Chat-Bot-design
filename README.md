@@ -1,5 +1,4 @@
-# Econet_test
-Test
+
 # Creating a Conda environment
 ```
 Conda create -n myenveconet python
